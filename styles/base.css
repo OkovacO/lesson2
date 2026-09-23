@@ -31,13 +31,6 @@ body {
 }
 
 .header {
-border-radius: 18 px;
-box-shadow: 0 7px 20px 0 #0000002E;
-background: #ffffff;
-
-}
-
-.header {
     border-radius: 18px;
     box-shadow: 0 7px 20px 0 #0000002E;
     backdrop-filter: blur(10px);
